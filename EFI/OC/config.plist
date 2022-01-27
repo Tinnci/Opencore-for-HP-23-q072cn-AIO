@@ -1337,13 +1337,13 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02910300GUKGQG1M</string>
+                <string>C02143802QXKGQG8C</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
                 <integer>1541</integer>
                 <key>ROM</key>
-                <data>65stXnlB</data>
+                <data>i/sv8TLB</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -1351,9 +1351,9 @@
                 <key>SystemProductName</key>
                 <string>iMac19,2</string>
                 <key>SystemSerialNumber</key>
-                <string>C02YDSY5JWDW</string>
+                <string>C02GL7ZUJWDW</string>
                 <key>SystemUUID</key>
-                <string>456F088A-5B77-4208-BE98-5224C05A2C5E</string>
+                <string>9C6601A3-C731-4658-84AF-5454579FC94C</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
