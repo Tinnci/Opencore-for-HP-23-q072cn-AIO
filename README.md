@@ -3,6 +3,10 @@ opencore for HP aio 23-q072cn
 
 
 
+注意⚠️：如果您想要正确使用电源管理，请使用更改过的grub shell解锁主板cfg锁
+
+
+
 这是一个用于惠普Pavillion 23-q072cn一体机台式电脑的Opencore集成。
 
 
@@ -51,4 +55,4 @@ i don't know, you tell me
 
 
 
-基于开源组件
+基于开源组件构建
